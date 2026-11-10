@@ -2469,7 +2469,7 @@ Total 7 packages affected by 7 known vulnerabilities (1 Critical, 0 High, 1 Medi
 [TestCommand_CommitSupport/online_uses_git_commits - 1 - stdout]
 Scanned <rootdir>/testdata/locks-git/osv-scanner.json file and found 11 packages
 
-Total 11 packages affected by 97 known vulnerabilities (5 Critical, 43 High, 33 Medium, 10 Low, 6 Unknown) from 1 ecosystem.
+Total 11 packages affected by 96 known vulnerabilities (5 Critical, 43 High, 32 Medium, 10 Low, 6 Unknown) from 1 ecosystem.
 0 vulnerabilities can be fixed.
 
 +---------------------------------+------+-----------+-----------------------------------------------+------------------+---------------+-------------------------------------+
@@ -2481,7 +2481,6 @@ Total 11 packages affected by 97 known vulnerabilities (5 Critical, 43 High, 33 
 | https://osv.dev/CVE-2023-44398  | 8.8  | GIT       | https://github.com/Exiv2/exiv2                | v0.28.0          | --            | testdata/locks-git/osv-scanner.json |
 | https://osv.dev/PYSEC-2023-233  |      |           |                                               |                  |               |                                     |
 | https://osv.dev/CVE-2024-24826  | 5.5  | GIT       | https://github.com/Exiv2/exiv2                | v0.28.0          | --            | testdata/locks-git/osv-scanner.json |
-| https://osv.dev/CVE-2024-25112  | 5.5  | GIT       | https://github.com/Exiv2/exiv2                | v0.28.0          | --            | testdata/locks-git/osv-scanner.json |
 | https://osv.dev/CVE-2024-39695  | 5.3  | GIT       | https://github.com/Exiv2/exiv2                | v0.28.0          | --            | testdata/locks-git/osv-scanner.json |
 | https://osv.dev/CVE-2025-26623  | 5.3  | GIT       | https://github.com/Exiv2/exiv2                | v0.28.0          | --            | testdata/locks-git/osv-scanner.json |
 | https://osv.dev/CVE-2025-54080  | 1.8  | GIT       | https://github.com/Exiv2/exiv2                | v0.28.0          | --            | testdata/locks-git/osv-scanner.json |

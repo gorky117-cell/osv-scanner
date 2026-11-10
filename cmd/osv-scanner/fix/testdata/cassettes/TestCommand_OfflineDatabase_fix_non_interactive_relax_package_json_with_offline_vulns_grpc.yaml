@@ -14973,12 +14973,20 @@ interactions:
               }
             },
             {
-              "isDefault": true,
               "publishedAt": "2026-11-05T23:30:59Z",
               "versionKey": {
                 "name": "minimatch",
                 "system": "NPM",
                 "version": "11.0.5"
+              }
+            },
+            {
+              "isDefault": true,
+              "publishedAt": "2026-11-10T16:35:22Z",
+              "versionKey": {
+                "name": "minimatch",
+                "system": "NPM",
+                "version": "11.0.6"
               }
             },
             {
